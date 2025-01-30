@@ -66,7 +66,7 @@
 #### **Screenshots**  
 | Create Art 🖼️ | Gallery 📚 | About ℹ️ |  
 |----------------|-----------|---------------------|  
-| <img src="photo_2025-01-20_22-32-40.jpg" width="150"> | <img src="https://via.placeholder.com/150" width="150"> | <img src="https://via.placeholder.com/150" width="150"> |  
+| <img src="photo_2025-01-20_22-32-40.jpg" width="150"> | <img src="photo_2025-01-26_17-27-37.jpg" width="150"> | <img src="photo_2025-01-26_17-27-37 (2).jpg" width="150"> |  
 
 ---
 
