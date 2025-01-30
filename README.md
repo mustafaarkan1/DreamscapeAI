@@ -9,6 +9,9 @@
 - Save and share your creations with friends.  
 - Explore a gallery of previous artworks with filters for mood and text search.  
 
+
+<img src="photo_2025-01-26_20-23-50.jpg" width="250">
+
 ---
 
 #### **Key Features**  
