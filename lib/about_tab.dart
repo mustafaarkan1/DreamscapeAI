@@ -1,3 +1,17 @@
+
+/*
+ *  Copyright (c) 2024 Mustafa Arkan. All rights reserved.
+ *  
+ *  This source code is licensed under the MIT license
+ *  found in the LICENSE file in the root directory of this project.
+ *  https://www.instagram.com/4m.u1
+ *  www.linkedin.com/in/mustafa-arkan
+ *
+ */
+
+
+
+
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:url_launcher/url_launcher.dart';
